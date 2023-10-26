@@ -10,7 +10,7 @@ It can also convert from or to cryptocurrencies. Simply select the currency from
 $ ```git clone https://github.com/shihabalratul/currency-converter.git```
 
 ### 2. Get inside the folder with:
-$ ```cd password-generator```
+$ ```cd currency-converter```
 
 ### 3. Install dependencies and run the project
 $ ```npm i```

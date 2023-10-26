@@ -1,6 +1,6 @@
 # 🪙 Currency converter with React JS
 
-This project can convert one currency to another. It uses [Currency API](https://github.com/fawazahmed0/currency-api) to get the latest currency data to convert the given currency.
+This project converts one currency to another. It uses [Currency API](https://github.com/fawazahmed0/currency-api) to get the latest currency data to convert the given currency.
 
 It can also convert from or to cryptocurrencies. Simply select the currency from the list and input the conversion amount. It will calculate the conversion and show output.
 
